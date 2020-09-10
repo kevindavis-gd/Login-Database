@@ -1,6 +1,8 @@
 # Login-Database
 Website using java servlet to access database information
 
+![GUI](Capture.JPG)
+
 Deployment instructions 
 1. Unzip project folder and place the unzipped folder in your Eclipse workspace. 
 2. Import the database file (.sql file) into your default database (localhost port 3306) 
